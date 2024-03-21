@@ -1,0 +1,51 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}
+.container {
+
+}
+
+.row {
+
+}
+.col-3 {
+
+}
+
+.col-9 {
+
+}
+.col-8 {
+
+}
+
+.img_logo {
+    background:  url(../images/logotyps.png) no-repeat center center;
+    background-size: 100%;
+    width: 34px;
+    height: 51px;
+}
+
+.img_chabik {
+    background: url(../images/Chabik.png) no-repeat center center;
+    background-size: 100%;
+    width: 325px;
+    height: 501px;
+}
+
+.nav_bar h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.nav_bar {
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.col-8 h2 {
+    font-size: 25px;
+}
